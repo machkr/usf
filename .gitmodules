@@ -1,0 +1,36 @@
+[submodule "db"]
+	path = db
+	url = https://github.com/machkr/db
+[submodule "py"]
+	path = py
+	url = https://github.com/machkr/py
+[submodule "im"]
+	path = im
+	url = https://github.com/machkr/im
+[submodule "alg"]
+	path = alg
+	url = https://github.com/machkr/alg
+[submodule "net"]
+	path = net
+	url = https://github.com/machkr/net
+[submodule "os"]
+	path = os
+	url = https://github.com/machkr/os
+[submodule "struct"]
+	path = struct
+	url = https://github.com/machkr/struct
+[submodule "sec"]
+	path = sec
+	url = https://github.com/machkr/sec
+[submodule "web"]
+	path = web
+	url = https://github.com/machkr/web
+[submodule "java"]
+	path = java
+	url = https://github.com/machkr/java
+[submodule "c"]
+	path = c
+	url = https://github.com/machkr/c
+[submodule "ood"]
+	path = ood
+	url = https://github.com/machkr/ood
